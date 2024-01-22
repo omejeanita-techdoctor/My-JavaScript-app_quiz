@@ -1,0 +1,17 @@
+{
+  "name": "my-javascript-app_quiz",
+  "version": "1.0.0",
+  "description": "a basic app_quiz in javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quiz_application",
+    "html",
+    "css"
+  ],
+  "author": "Anita Techdoctor",
+  "license": "ISC"
+}
